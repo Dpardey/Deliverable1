@@ -12,18 +12,18 @@ The data used was a Boston Airbnb Open Data that can be found in [Kaggle](https:
 
 ## Packages
 #### Data manipulization
-numpy
-pandas
-datetime
-regex
+- numpy
+- pandas
+- datetime *manipuling datetime format*
+- regex *extract patterns from string*
 
-### Visualizations 
-matplotlib
-seaborn 
-folium
-HeatMap
-msno
-Image
+#### Visualizations 
+- matplotlib
+- seaborn 
+- folium *interactive map*
+- HeatMap *heatmap*
+- msno *visualizing missing data*
+- Image *import images*
 
 ## Summary of the conclusions
 
