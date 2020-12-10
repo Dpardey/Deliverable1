@@ -1,6 +1,6 @@
 # ¿What determines the renting price of an Airbnb property?
 
-Imagine the following situation: You have been saving money for a while in a hedgefund. One day you realized that in order to maximize the long-term profitability of your savings, it's better to invest in the real estate market, specifically in the Airbnb rental business. Subsequently, one of the many question you may ask yourself are:
+Imagine the following situation: You have been saving money for a while in a hedgefund. One day you realized that in order to maximize the long-term profitability of your savings, it's better to invest in the real estate market, specifically in the Airbnb rental business. Subsequently, some of the questions you may ask yourself are:
 
 - ¿Which variables should you look for while you're looking for properties?
 - ¿Where should you buy if the pricing is the only variable of interest?
