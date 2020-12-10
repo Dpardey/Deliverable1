@@ -39,6 +39,8 @@ The [data](https://www.kaggle.com/airbnb/boston) used was a Boston Airbnb Open D
 - Especial caution is needed due to Sympson's paradox across the variables.
 - Customer perception is an influential set of features that derives the price
 
+[Here is a blog I wrote about this analysis](https://medium.com/@pardey27/are-the-renting-price-of-a-property-in-airbnb-predictable-6fb3157cf363)
+
 
 ## Resources
   1. [This notebook was useful for extracting functions to clean the data and organize the graphs](https://www.kaggle.com/residentmario/exploring-prices)
